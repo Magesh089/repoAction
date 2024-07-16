@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       repo-name: 
-        description: repoAction
+        description: repoActionOne
         required: true
         default: ''
 jobs:
